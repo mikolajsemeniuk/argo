@@ -1,5 +1,11 @@
 # Argo
 
+* Udemy (6, 4)
+* Labs (4)
+* Lessons (4)
+* Templates (3 + 3 = 6)
+* Articles (4)
+
 ## CD
 
 ### Deploy ArgoCD to Kubernetes
